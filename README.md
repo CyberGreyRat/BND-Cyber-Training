@@ -1,7 +1,7 @@
 # BND Cyber-Training: Wirst du zum Super Ethernal Hacker? 🕵️‍♂️💻
 
 
-### BND Cyber-Training ist ein immersives Hacking- und Spionage-Simulationsspiel, das dich in die Rolle eines neuen Rekruten des Bundesnachrichtendienstes versetzt. Lerne, denke und handle wie ein echter Cyber-Agent in einer realistischen, web-basierten Desktop-Umgebung.
+BND Cyber-Training ist ein immersives Hacking- und Spionage-Simulationsspiel, das dich in die Rolle eines neuen Rekruten des Bundesnachrichtendienstes versetzt. Lerne, denke und handle wie ein echter Cyber-Agent in einer realistischen, web-basierten Desktop-Umgebung.
 
 <img width="1905" height="948" alt="image" src="https://github.com/user-attachments/assets/b808c4e0-736a-4280-bf2c-03fba5b49665" />
 
